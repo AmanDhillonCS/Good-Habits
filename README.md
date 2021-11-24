@@ -3,42 +3,20 @@
 
 ### Summary
 Good Habits is a habit-tracking application that can be used to develop good habits or get rid of bad habits.
+### What is Good Habits?
+The main goal of Good Habits is to make an individual complete the tasks they have created. Each task in this context is a habit that a user wants to start or quit. The application will send out notifications at certain time intervals to keep the users on track. The app will also contain a detailed description of ongoing and past activities or habits a user has performed. To keep the person motivated and focused motivational quotes will be sent as notifications throughout the day. Moreover, it will give users a rating on how they are doing towards a habit so they get a sense of achievement and flaunt it among friends.
 
-### Iteration Documents 
----
-**For Markers:**
+### Who is it for?
+According to Healthline, it takes a person on average about 66 days to develop a regular habit so it is made for people who have trouble developing new habits in a consistent manner, which mostly includes young adults. A person using this application is expected to know how to operate a smart phone. Furthermore, Good Habit is intended for people who lack a feeling of motivation and achievement and want something to push them towards their goals.  
 
-[Iteration 1](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/blob/iteration-1docs/docs/Iteration1.md)  
-[Iteration 2](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/blob/master/docs/Iteration2.md)  
-[Iteration 3](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/blob/master/docs/Iteration3.md)
+### Why is Good Habits valuable?
+Good Habits improves over the traditional mode of tracking a habit which usually involves sticky notes or a notebook. It provides people with reminders so they avoid missing anything and as smart phones are quite handy they can keep track of the progress regularly. Moreover, it provides with motivational quotes to keep individuals focused throughout the day which most other applications lack. It also provides a sense of achievement with its rating system. Overall, during this pandemic, Good Habits can be very valuable for individuals struggling with regular activities.
 
-### Vision Statement
----
-* [Vision Statement](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/blob/iteration-1docs/docs/Vision%20Statement.md) for iteration 0 
+### What is the success criteria for Good Habits?
+Success criteria for Good Habits will be based on three stages. 
+* The creation of at least one habit will fulfill the first stage. 
+* The second stage can be achieved if the user receives three out of the five rating stars. 
+* Finally, the third stage can be reached when the user uses the Good Habits application for more than 66 days as it takes that many days for a habit to become an automatic behavior.
 
-### Features
----
-* [Feature List](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=Feature)
+If all these three stages are completed, we can confidently say that the utilisation of this app was successful.
 
-
-### User Stories
----
-* [User Story List](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=User%20Story)
-
-### Developer Tasks 
----
-* [Developer Task List](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=Developer%20Task)
-
-
-### Architecture
----
-* Planned [Architecture](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/blob/master/docs/ARCHITECTURE.md)
-### Coding Style 
----
-* [Coding Style guide](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/blob/iteration-1docs/docs/Coding%20Style.md)
-
-### Tests
----
-* [System Tests](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/tree/master/app/src/androidTest/java/com/example/goodhabit/SystemTests)  
-* [Integration Tests](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/tree/master/app/src/androidTest/java/com/example/goodhabit/IntegrationTests)
-* [Unit Tests](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-12/good-habits-a02-12/-/tree/master/app/src/test/java/com/example/goodhabit)
