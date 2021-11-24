@@ -1,0 +1,185 @@
+body { 
+background: white;
+color:teal;
+font-family: 'Roboto', sans-serif;
+font-size: 150%;
+margin: 0;
+
+}
+
+header {
+background:teal;
+background-image: url("images/back2.jpg");
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 40% 1fr;
+    grid-gap: 2%;
+    justify-items: center;
+    align-items:center;
+    background-image: url("images/back1.jpg");
+    
+}
+
+.logo{
+    
+    justify-items: left;
+    align-items: left;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+   
+    
+}
+.logo img{
+    border: 3px solid black;
+    border-radius: 20%;
+    padding: 5px;
+}
+
+.mText{
+    color: black;  
+}
+
+section {
+background: white;
+color: teal;
+padding: 0px;
+display: flex;
+flex-direction: row;
+}
+
+div {
+background:none;
+display: inline-block;
+color: none;
+}
+
+
+
+.row {
+    width: 100%;
+    background-color: white;
+    color: black;
+    margin-bottom: 10%;
+    margin-top: 5%;
+    text-align: justify;
+    
+}
+
+.column {
+    float: left;
+}
+
+.vision1 h1{
+    text-align: center;
+}
+.vision1{
+    width: 45%;
+    padding-left: 5%;
+    padding-right: 10px;
+    
+}
+.Audience h1{
+    text-align: center;
+}
+
+.Audience {
+    width: 45%;
+    padding-right: 3%;
+    padding-left: 1%;
+    
+    
+}
+
+.row-features {
+    float: left;
+    background-color:none;
+    background-image: url("images/back1.jpg");
+    color:black;
+    width: 100%;
+    text-align: center;
+   padding-bottom: 5%;
+   padding-top: 5%;
+}
+
+.row-features i{
+    
+    font-size: 30px;
+}
+
+.colf1{
+   width: 30%;
+  
+}
+
+.colf2{
+ width: 30%;
+}
+
+.colf3{
+    width: 30%;
+  
+}
+
+
+
+.contributor {
+    float: left;
+    background-image:url("images/back2.jpg");
+    background-size: 100%;
+    color:black;
+    padding: 0;
+    margin: auto;
+    width: 100%;
+    text-justify: center;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.contributor p{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.sales{
+    background-color:white;
+    color:rgb(0, 0, 0);
+    padding: 0;
+    margin: auto;
+    width: 100%;
+    text-justify: center;
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.sales p{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.postmortem{
+    float: left;
+    background-color: whitesmoke;
+    color:black;
+    width: 100%;
+    text-justify: center;
+    text-align: center;
+}
+
+.postmortem p{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: justify;
+}
+
+
+footer {
+color: rgb(245, 245, 245);
+text-align: center;
+font-size: 75%;
+background-image: url("images/back1.jpg");
+}
+
